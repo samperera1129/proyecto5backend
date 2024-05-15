@@ -1,0 +1,17 @@
+{
+  "name": "practica5",
+  "version": "0.0.1",
+  "description": "\"Practica 5\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "SamPerera1101",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
